@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "09542B31370004A108F4E8521E9213345D8C1349",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "09542B31370004A108F4E8521E9213345D8C1349" : 9223372036854775807,
+    "A9D2ABC19C4F8BBA5B484B8DFEDACD699134E1EC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CBCF6609-B6BA-4653-809C-CEBC59D216D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "09542B31370004A108F4E8521E9213345D8C1349" : "LJ_Twinkle\/",
+    "A9D2ABC19C4F8BBA5B484B8DFEDACD699134E1EC" : "Twinkle"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Twinkle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Twinkle.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/december7\/LJ_Twinkle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09542B31370004A108F4E8521E9213345D8C1349"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuzechen\/CC_Twinkle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9D2ABC19C4F8BBA5B484B8DFEDACD699134E1EC"
+    }
+  ]
+}
